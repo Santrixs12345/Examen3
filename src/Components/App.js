@@ -11,7 +11,7 @@ import {element} from 'prop-types';
 function App(props) {
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar className="navar"/>
       <Content >
         {/* Components */}
         {props.children}

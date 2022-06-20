@@ -6,7 +6,7 @@ export default function Navbar(){
         <a href="/" className= "site-title"><img src={logo} className="App-logo" alt="logo" />Santiago</a>
         <ul>
             <li>
-                <a href="/about">Curriculum Vitae</a>
+                <a href="/Curiculum">Curriculum Vitae</a>
                 <a href="/contact">Contact</a>
             </li>
         </ul>
