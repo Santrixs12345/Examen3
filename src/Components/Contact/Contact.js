@@ -38,7 +38,7 @@ class Person extends Component {
 
     handleOnSubmit = e => {
         e.preventDefault();
-        const {name, lastName, email, phone} = this.state;
+        const {name, lastName} = this.state;
         
         this.setState({
             errors:{

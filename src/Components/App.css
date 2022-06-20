@@ -7,11 +7,3 @@
   pointer-events: none;
   flex-direction: column;
 }
-
-.App-navar{
-  background-color: #333;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-}
